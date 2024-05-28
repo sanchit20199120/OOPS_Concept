@@ -12,8 +12,6 @@
 #Create two instances of this class and call the methods on those instances.
 
 
-
-
 class Bank_Account:
     def set_details(self, name, balance=0):
         self.name = name
